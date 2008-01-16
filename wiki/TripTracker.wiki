@@ -1,4 +1,4 @@
-#summary !TripTracker is a travel mapping service
+#summary TripTracker is a travel mapping service
 #labels TripTracker
 
 = What is !TripTracker? =
