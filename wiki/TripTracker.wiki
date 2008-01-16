@@ -1,0 +1,19 @@
+#summary TripTracker is a travel mapping service
+#labels TripTracker
+
+= What is [http://triptracker.net/ TripTracker]? =
+
+TripTracker is a social travel mapping service designed to help you organize and store memories of your travels and create eye-catching presentations of your trips. TripTracker helps travelers share the tales of where they have been, what they have seen and what they have experienced, either with friends and family, or with the entire traveling world.
+
+
+= About TripTracker Travel Journals =
+
+TripTracker journals combine photos, notes and comments of other travelers, and display all this information on a map at the exact location where it all took place. Adding photos to a travel journal is a breeze using the TripTracker uploader application. Photos are automatically grouped into entries which are displayed intuitively on a map to highlight the location where they were taken. You may edit or annotate these entries to create a personal journal, or to provide tips and advice for other travelers. If you own a GPS receiver, TripTracker will display your tracks on detailed satellite maps, helping you share your trails with friends across the globe.
+
+= The TripTracker Community =
+
+The ultimate goal is to create a vibrant community that would help travelers keep in touch, as well as help visitors plan future trips based on first-hand accounts of other members. With TripTracker's RSS feeds, you'll never miss an update from the people that matter, while TripTracker's location search and collaborative rating will help you find the most valuable travel information and the most interesting destinations.
+
+= More Info =
+
+For more info see the TripTracker website at http://triptracker.net/about/
