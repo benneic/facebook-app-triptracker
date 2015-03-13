@@ -1,0 +1,7 @@
+# About Facebook #
+
+Facebook is a social utility that connects people with friends and others who work, study and live around them. People use Facebook to keep up with friends, upload an unlimited number of photos, share links and videos, and learn more about the people they meet.
+
+# More Info #
+
+For more info about Facebook click [here](http://www.facebook.com/about.php) or sign up and become a member at http://www.facebook.com/. Be sure to add the TripTracker application.
